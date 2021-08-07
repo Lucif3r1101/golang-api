@@ -1,4 +1,4 @@
-# Wiredcraft Back-end Developer Coding Test
+# Developer Coding Test
 
 Make sure you read **all** of this document carefully, and follow the guidelines in it.
 
@@ -59,12 +59,3 @@ Here's what you should aim for:
 
 - Extensible code;
 
-## Q&A
-
-* Where should I send back the result when I'm done?
-
-Fork this repo and send us a pull request when you think you are done. We don't have deadline for the task.
-
-* What if I have question?
-
-Create a new issue in the repo and we will get back to you very quickly.
